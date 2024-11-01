@@ -1,0 +1,16 @@
+.sulock-nowrap {
+    white-space:nowrap;
+}
+
+.sulock_permlock {
+    color:#911;
+    font-weight:700;
+}
+
+.sulock_templock {
+    color:orangered;
+}
+
+.sulock_nolock {
+    color:#191;
+}
